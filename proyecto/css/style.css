@@ -1,6 +1,6 @@
 #tabla1
 {
-    width: 50%;
+    width: 65%;
     border-radius: 2em;
     border-style: dashed;
     border-width: 1em;
@@ -8,21 +8,23 @@
 }
 .img1a
 {
-    width: 250px;
-    height: 350px;
+    width: 45%;
+    height: 90%;
     border-radius: 2em;
     border-style: dashed;
     color: rgb(143, 228, 46);
 }
 .img1b
 {
-    width: 250px;
-    height: 350px;
+    width: 45%;
+    height: 90%;
     border-radius: 2em;
     border-style: dashed;
     color: rgb(143, 228, 46);
 }
 td
 {
+    width: 15%;
+    height: 100px;
     border-radius: 2em;
 }
