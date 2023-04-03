@@ -1,0 +1,28 @@
+#tabla1
+{
+    width: 50%;
+    border-radius: 2em;
+    border-style: dashed;
+    border-width: 1em;
+    text-align: center;
+}
+.img1a
+{
+    width: 250px;
+    height: 350px;
+    border-radius: 2em;
+    border-style: dashed;
+    color: rgb(143, 228, 46);
+}
+.img1b
+{
+    width: 250px;
+    height: 350px;
+    border-radius: 2em;
+    border-style: dashed;
+    color: rgb(143, 228, 46);
+}
+td
+{
+    border-radius: 2em;
+}
